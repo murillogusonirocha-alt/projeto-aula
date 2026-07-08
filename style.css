@@ -1,10 +1,11 @@
 header{
      background-color: blueviolet;
-color:azure;
-text-align: center;
+    color: black;
+    text-align: center;
 
 }
 main{ 
-    background-color: black
-    color(srgb red green blue)
+    background-color: brown;
+    color: black;
+    text-align: center;
 }
